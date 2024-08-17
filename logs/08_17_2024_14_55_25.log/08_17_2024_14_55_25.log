@@ -10,9 +10,17 @@
 [ 2024-08-17 14:56:17,228 ] 74 root - INFO - Got the data from mongodb
 [ 2024-08-17 14:56:17,229 ] 76 root - INFO - Exited initiate_data_ingestion method of Data_Ingestion class
 [ 2024-08-17 14:56:17,229 ] 252 root - INFO - Entered initiate_data_validation method of Data_Validation class
-[ 2024-08-17 14:56:17,229 ] 255 root - INFO - Initiated data validation for the dataset
-[ 2024-08-17 14:56:17,321 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "[35m[1mGET /train HTTP/1.1[0m" 500 -
-[ 2024-08-17 14:56:17,479 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "GET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-[ 2024-08-17 14:56:17,479 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "GET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-[ 2024-08-17 14:56:17,984 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "GET /train?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
-[ 2024-08-17 14:56:17,985 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "GET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-08-17 14:56:18,229 ] 255 root - INFO - Initiated data validation for the dataset
+[ 2024-08-17 14:56:19,321 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "[35m[1mGET /train HTTP/1.1[0m" 500 -
+[ 2024-08-17 14:56:20,479 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "GET /train?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2024-08-17 14:56:20,479 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "GET /train?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2024-08-17 14:56:21,984 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "GET /train?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[ 2024-08-17 14:56:22,985 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 14:56:17] "GET /train?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2024-08-17 14:56:24,201 ] 52 root - INFO - Entered the load_object method of MainUtils class
+[ 2024-08-17 14:56:25,674 ] 58 root - INFO - Exited the load_object method of MainUtils class
+[ 2024-08-17 14:56:27,786 ] 35 root - INFO - Entered predict method of srcTruckModel class
+[ 2024-08-17 14:56:28,879 ] 38 root - INFO - Using the trained model to get predictions
+[ 2024-08-17 14:56:29,546 ] 42 root - INFO - Used the trained model to get predictions
+[ 2024-08-17 14:56:32,156 ] 104 root - INFO - predictions completed. 
+[ 2024-08-17 14:56:33,157 ] 35 root - INFO - prediction completed. Downloading prediction file.
+[ 2024-08-17 14:56:35,168 ] 97 werkzeug - INFO - 127.0.0.1 - - [17/AUG/2024 14:56:35] "POST /predict HTTP/1.1" 200 -

@@ -1,8 +1,0 @@
-[ 2024-08-17 13:46:03,095 ] 225 werkzeug - WARNING -  * Running on all addresses.
-   WARNING: This is a development server. Do not use it in a production deployment.
-[ 2024-08-17 13:46:03,096 ] 225 werkzeug - INFO -  * Running on http://192.168.0.133:8080/ (Press CTRL+C to quit)
-[ 2024-08-17 13:46:15,054 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 13:46:15] "GET / HTTP/1.1" 200 -
-[ 2024-08-17 13:46:20,393 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 13:46:20] "GET / HTTP/1.1" 200 -
-[ 2024-08-17 13:46:21,303 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 13:46:21] "GET / HTTP/1.1" 200 -
-[ 2024-08-17 13:49:59,622 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 13:49:59] "GET / HTTP/1.1" 200 -
-[ 2024-08-17 13:50:00,528 ] 225 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2024 13:50:00] "GET / HTTP/1.1" 200 -

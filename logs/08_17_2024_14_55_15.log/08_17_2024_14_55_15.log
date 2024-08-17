@@ -1,1 +1,4 @@
 [ 2024-08-17 14:55:23,831 ] 225 werkzeug - INFO -  * Restarting with stat
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.103:5000
