@@ -2,12 +2,9 @@ Phishing Classifier
 
 Overview
 
-The Phishing Classifier is a machine learning-based web application that detects phishing websites based on various features extracted from URLs. It takes a CSV file as input, processes it through a trained model, and returns a CSV file with a prediction for each URL. The prediction is binary:
+The Phishing Classifier is a machine learning-based web application that detects phishing websites based on various features extracted from URLs. It takes a CSV file as input, processes it through a trained model, and returns a CSV file with a prediction for each URL. 
 
-0 indicates a legitimate website.
-1 indicates a phishing website.
-
-Features
+Features           
 
 Input: Accepts a CSV file containing URLs or relevant features.
 Output: Generates a CSV file with predictions for each entry.
