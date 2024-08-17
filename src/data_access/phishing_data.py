@@ -50,7 +50,7 @@ class PhisingData:
         return df
 
     def export_collections_as_dataframe(
-            self) -> pd.DataFrame: # type: ignore
+            self) -> pd.DataFrame:
         try:
             """
             export entire collectin as dataframe:
