@@ -21,7 +21,7 @@ Validation: The system validates the input data to ensure it meets the required 
 Prediction: The data is processed through a machine learning pipeline that classifies each entry as either phishing or legitimate.
 Download Results: The user can download a CSV file containing the original data with an additional column for the phishing prediction.
 
-
+![Screenshot (279)](https://github.com/user-attachments/assets/f1063736-fb41-4232-9c84-c53b0fbf74fd)
 
 
 '''pip install -e .''' to run setup.py
