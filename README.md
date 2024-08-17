@@ -17,7 +17,7 @@ Logging and Validation: Includes mechanisms for data validation and logging to e
 How It Works
 
 Upload CSV: The user uploads a CSV file containing the URLs or specific features of URLs that need to be classified.
-Validation: The system validates the input data to ensure it meets the required schema (e.g., correct number of columns).
+Validation: The system validates the input data to ensure it meets the required schema .
 Prediction: The data is processed through a machine learning pipeline that classifies each entry as either phishing or legitimate.
 Download Results: The user can download a CSV file containing the original data with an additional column for the phishing prediction.
 
